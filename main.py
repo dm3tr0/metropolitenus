@@ -1,11 +1,5 @@
-from lzma import is_check_supported
 from PyQt5 import QtCore, QtGui, QtWidgets
 import random
-import tkinter as tk
-from tkinter import messagebox
-
-win = tk.Tk()
-win.withdraw()
 
 station_list = []
 
